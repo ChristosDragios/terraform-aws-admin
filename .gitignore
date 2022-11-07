@@ -16,8 +16,8 @@ crash.log
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
-env.tf
 providers.tf
+env.tf
 provider.tf
 override.tf
 override.tf.json
